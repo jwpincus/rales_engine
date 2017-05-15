@@ -1,11 +1,5 @@
 # README
 
-## Goals
-This is our Turing School Mod 3-Rails Applications project: the intentions of this project are to master our Rails skills, learn how to build single-responsibility controllers to provide a well-designed and versioned API, practice developing controller tests to drive design, and implement ActiveRecord and SQL query methods to perform complicated business intelligence.
-
-The specifications for the project can be found here: http://backend.turing.io/module3/projects/rails_engine
-The original data implemented in the project can be found here: https://github.com/turingschool-examples/sales_engine/tree/master/data
-The spec harness for this project can be cloned from here: https://github.com/turingschool/rales_engine_spec_harness
 
 ## Setup
 
